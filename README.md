@@ -1,5 +1,6 @@
 ### Hi I'm Nirjon 👋
 
+<img src="https://cdn.pixabay.com/photo/2019/07/12/18/48/code-4333398_960_720.jpg">
 
 Here are some ideas to get you started:
 
