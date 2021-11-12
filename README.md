@@ -5,6 +5,22 @@
 
 
 <p>Hi! I'm Atikur Rahaman</p>
-
-
-<p align="center"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/internet-23/64/ICFcomp1-512.png" title="My Website" alt="My Website" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-512.png" title="facebook" alt="facebook" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Blogger_social_media_logo-512.png" title="blog" alt="blog" width="30" height="30"/> </p>
+ 
+  
+<p align="center" style="margin: -20px 0 30px">
+   <a href="#"_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn3.iconfinder.com/data/icons/internet-23/64/ICFcomp1-512.png" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-512.png" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Blogger_social_media_logo-512.png" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-512.png" alt="email" height="22px" width="22px" />
+  </a>
+</p>
