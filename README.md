@@ -8,7 +8,7 @@
  
   
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://www.nirjon.tk" target="_blank" style='margin-right:10px'>
+   <a href="http://www.nirjon.tk" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn3.iconfinder.com/data/icons/internet-23/64/ICFcomp1-512.png" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
