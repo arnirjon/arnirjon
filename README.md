@@ -4,7 +4,12 @@
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg2LDfa56wU9Ix9TEXlVJWFLcbkXQetrKVljFlqqIFaqZxvexNNReZg2L3WDla18MWj_9zgmEEm9tPmxmdTnGxBR-lS0NXaOUsCvGRGfMyAjRAjCT7jq01B8aiOsjUWyzyhDlnATE3I2ORhR_GU_mI2wKrJR9OWfa_4jAeJT3lts7KNAZtIjRJeXPCv=s16000">
 
 
-<p>Hi! I'm Atikur Rahaman</p>
+<p>
+ Hi! I'm <strong>Atikur Rahaman</strong>. I'm a student and currently living in Dhaka (Bangladesh).
+I started to learn the programming since High School.
+During my career, I've always tried to improve my skills.
+I'm passionate about learnning programming.
+</p>
  
   
 <p align="center" style="margin: -20px 0 30px">
