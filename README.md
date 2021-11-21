@@ -25,7 +25,7 @@ I'm passionate about learnning programming.
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Blogger_social_media_logo-512.png" alt="linkedin" height="30px" width="30px" />
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="mailto:nirjon570@gmail.com" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-512.png" alt="email" height="30px" width="30px" />
   </a>
 </p>
